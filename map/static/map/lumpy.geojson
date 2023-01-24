@@ -1,0 +1,225 @@
+
+const stores = {
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         16.996950999902324,
+      51.12596643688644
+            ]
+         },
+         "properties":{
+	    "name":"Lumpex De Lux",
+            "phoneFormatted":"735 394 546",
+            "phone":"735394546",
+            "address":"Popowicka 26",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"54-237",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.055436857592113,
+      51.11410210825777
+            ]
+         },
+         "properties":{
+	    "name":"Margo",
+            "phoneFormatted":"",
+            "phone":"",
+            "address":"Ładna 16",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"50-353",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.035582799917176,
+      51.12693380168907
+            ]
+         },
+         "properties":{
+	    "name":"Lodnynski styl",
+            "phoneFormatted":"668 379 534",
+            "phone":"668379534",
+            "address":"Kleczkowska 1A",
+            "city":"Wrclaw",
+            "country":"Polska",
+            "postalCode":"50-227",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         16.99027522157613,
+      51.125127602338246
+            ]
+         },
+         "properties":{
+	    "name":"Kreator",
+            "phoneFormatted":"",
+            "phone":"",
+            "address":"Legnicka 55",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"54-203",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         16.99009927108398,
+      51.123959575847195
+            ]
+         },
+         "properties":{
+	    "name":"LAPciuch",
+            "phoneFormatted":"",
+            "phone":"",
+            "address":"Bialowieska 24A",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"54-239",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.0200001882431,
+      51.111677137710814
+            ]
+         },
+         "properties":{
+	    "name":"Replay",
+	    "phoneFormatted":"",
+            "phone":"",
+            "address":"Sokolnicza",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"53-676",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.033377828747597,
+      51.11723850661149
+            ]
+         },
+         "properties":{
+	    "name":"Dziabdziak",
+            "phoneFormatted":"",
+            "phone":"",
+            "address":"Stanisalawa Dubois 3",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"50-257",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.03569098638644,
+      51.126381402803354
+            ]
+         },
+         "properties":{
+	    "name":"Dabek Piotr",
+            "phoneFormatted":"71 788 68 88",
+            "phone":"717886888",
+            "address":"Trzebnicka 42",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"50-230",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.024246372854986 ,
+      51.136435318086384
+            ]
+         },
+         "properties":{
+	    "name":"Strefa Ciuchow",
+            "phoneFormatted":"695 649 341",
+            "phone":"695649341",
+            "address":"Chorwacka 2B",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"51-107",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               51.12319654211154
+		17.049240186434574,
+            ]
+         },
+         "properties":{
+	    "name":"Ramoneska",
+            "phoneFormatted":"603 974 781",
+            "phone":"603974781",
+            "address":"Nowowiejska 27",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"50-315",
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+		         17.031702745966186,
+      51.11265019027123
+            ]
+         },
+         "properties":{
+	    "name":"Odrzanska Szafa",
+            "phoneFormatted":"",
+            "phone":"",
+            "address":"Odrzańska 13",
+            "city":"Wroclaw",
+            "country":"Polska",
+            "postalCode":"50-113",
+         }
+      }
+   ]
+};
+
+
+
+
+
+
+
+
+
+
