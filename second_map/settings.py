@@ -57,6 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 CSRF_COOKIE_SECURE = True
+SESSION_COOKIE_SECURE = True
 CSRF_COOKIE_DOMAIN = 'secondmap.bieda.it'
 ROOT_URLCONF = 'second_map.urls'
 
