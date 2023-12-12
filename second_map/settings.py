@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-wf&j8(e2=_$+$iz_do2t5fxqv#1%9hg=*^x!)kbo)lpp^%s0$s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'secondmap.bieda.it',
+]
 
 
 # Application definition
